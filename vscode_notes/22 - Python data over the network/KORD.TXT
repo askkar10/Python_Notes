@@ -1,0 +1,11 @@
+CHICAGO O'HARE INTERNATIONAL, IL, United States (KORD) 41-59N 087-55W 200M
+Jul 21, 2025 - 08:51 AM EDT / 2025.07.21 1251 UTC
+Wind: from the E (080 degrees) at 10 MPH (9 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 72.0 F (22.2 C)
+Dew Point: 64.9 F (18.3 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KORD 211251Z 08009KT 9SM FEW070 BKN250 22/18 A3007 RMK AO2 SLP178 T02220183
+cycle: 13

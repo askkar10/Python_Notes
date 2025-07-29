@@ -1,0 +1,13 @@
+1) wizualny przykład projektu
+-> mathproj z folderem comp, a w nim c1.py, folder 
+numeric a w nim n1.py, n2.py
+
+2) co powinien zawierać np. plik __init__.py z folderem comp
+
+3) załadowanie wersji mathproj
+-> załadowanie comp i c1
+
+4) import statement within packages -> jezeli jestse w
+packages na samym dole skrocaona wersja ladowania
+
+5) importowanie calosci i mozliwe bledy

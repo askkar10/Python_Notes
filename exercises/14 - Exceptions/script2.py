@@ -1,0 +1,1 @@
+raise IndexError("Just kidding")

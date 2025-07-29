@@ -1,0 +1,10 @@
+1) Tworzenie bazy danych za pomocą 'sqlite3'
+-> stworzenie bazy 'datafile.db'
+-> stworzenie tabeli 'people' z ,'id','name','count'
+-> dodanie ('Bob',1), ('Jill',15)
+-> dodanie ('Joe',10) za pomocą dictionary
+-> wypisanie wszystkich w bazie
+-> wypisanie wszystkich o imieniu 'Bob'
+-> iterating over database 
+-> update 'count' na 100, gdzie imię to 'Jill'
+

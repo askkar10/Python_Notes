@@ -1,0 +1,9 @@
+1) Jak zainstalować 'requests' library
+-> jak zaktualizować do najnowszej wersji?
+
+2) installing ibrary for the user home directory
+package 'request'
+
+3) creating virtual envrionment
+-> ctivate it
+-> installing 'request' package on virtual envornment

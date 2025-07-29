@@ -1,0 +1,6 @@
+f = open('ilosc_linii.txt','r')
+d = f.readlines()
+f.close()
+f = open('ilosc_linii_copy.txt','w')
+f.writelines(d)
+f.close()

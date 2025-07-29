@@ -1,0 +1,46 @@
+- Tworzenie i modyfikowanie
+Stworz pusty slownik.
+
+Dodaj klucz "name" z wartoscia "Alice", a nastepnie wypisz caly slownik.
+
+Dodaj kolejny klucz "age" z wartoscia 30.
+
+- Konwersje do list
+Wypisz wszystkie klucze slownika jako liste.
+
+Wypisz wszystkie wartosci jako liste.
+
+Wypisz wszystkie pary klucz-wartosc jako liste tupli.
+
+- Sprawdzanie istnienia
+Sprawdz, czy klucz "name" istnieje w slowniku.
+
+Sprawdz, czy klucz "email" nie istnieje i wypisz odpowiedni komunikat.
+
+- Domyslne wartosci i kopiowanie
+Jesli klucz "language" nie istnieje, dodaj go z wartoscia "no translation".
+
+Skopiuj slownik do nowej zmiennej.
+
+- Aktualizacja i usuwanie
+Zaktualizuj wartosc klucza "age" na 31.
+
+Usun klucz "name" ze slownika.
+
+- Zliczanie slow
+Policz ile razy kazde slowo wystepuje w stringu "to be or not to be" uzywajac slownika.
+
+Zrob to samo uzywajac wbudowanej klasy lub narzedzia jezykowego.
+
+- Slownik jako arkusz kalkulacyjny
+Stworz strukture danych w formie slownika, w ktorej kazdy klucz to nazwa kolumny arkusza kalkulacyjnego, a wartosc to lista wartosci w tej kolumnie (np. "name": ["Anna", "Bob"], "score": [85, 92]).
+
+- Macierze i slowniki
+Stworz macierz (2D) jako liste list i wypisz element z wiersza 2, kolumny 1.
+
+Stworz macierz, w ktorej kazdy wiersz jest reprezentowany jako slownik z nazwami kolumn jako kluczami, np.:
+
+python
+Kopiuj
+Edytuj
+{"name": "Anna", "score": 85}

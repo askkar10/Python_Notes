@@ -1,0 +1,39 @@
+1) zapisanie pliku 'tekst.txt' z słowami np. 'Ala ma kota',
+a) otworzenie tego pliku (jednej linii)
+b) nadpisanie tego pliku np. z tekstem 'Witam świecie'
+c) dodanie do pliku tekstu 'Hello World'
+d) odczytanie wielu linii
+
+2) odczytanie ilości linii w pliku
+a) za pomocą petli for
+b) za pomocą odczytania dlugosci wszystkich linii
+
+3) stworzenie kopii pliku tekstowego (wiele linii)
+
+4) jak otworzyć i odczytac plik binarny - otworz pierwsze, cztery cyfry, a później caly tekst
+
+5) za pomocą pathlib
+a) zapisywanie pliku
+b) otwieranie pliku
+c) zapisywanie pliku binary
+d) otwieranei pliku binary
+
+6) przekierowanie standardowego wyścina 'stdout' do pliku o nazwie outfile.txt
+
+7) zapisywanie do pliku za pomocą printa
+
+8) struct module -> zapiwanie do pliku binary pojedynczego integeera => floata oraz stringa 7 literowego
+
+9) odczytanie tego pliku
+
+10) piclke modul - zapisanie do pliku 'pickle_pack' a = 22, b = 3.14 c = 'test'
+
+11) odczytanie tego pliku
+
+12) shelve module - zapisanie jakiegoś adresu w adresses
+
+13 ) odczytanie
+
+14) with - otwarcie pliku i zapisanie czyli skopiowanie takie
+
+15) otwarcie pliku z with

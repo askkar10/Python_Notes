@@ -1,0 +1,20 @@
+dic = {'name':'askaniusz','surname':'karpowicz','age':27}
+a = list(dic.keys())
+b = list(dic.values())
+c = list(dic.items())
+print(a)
+print(b)
+print(c)
+print('name' in dic)
+print('name' not in dic)
+d = dic.get('email','No e-mail')
+print(d)
+dic.setdefault('email','we can put email here')
+print(dic)
+dic_copy = dic.copy()
+print(dic_copy)
+email = {'email':'askkar27@icloud.com'}
+dic.update(email)
+print(dic)
+del dic['age']
+print(dic)

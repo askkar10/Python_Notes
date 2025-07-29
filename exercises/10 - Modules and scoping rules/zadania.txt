@@ -1,0 +1,7 @@
+1) Przykład modułu, zaimportuje math i wypisz pi 
+
+2) Z math zaimportuj pi i wypisz
+
+3) Statement importowania modulu, z modulu kilka rzeczy, z modulu wszystkiego
+
+4) importowanie prywatnych modulow

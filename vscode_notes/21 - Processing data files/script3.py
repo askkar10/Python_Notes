@@ -1,0 +1,7 @@
+moby_text = open('moby_01.txt').read()
+moby_paragraphs = moby_text.split('\n\n')
+moby = moby_paragraphs[1].lower()
+moby = moby.replace('.','')
+moby = moby.replace(',','')
+moby_words = moby.split()
+print(moby_words)

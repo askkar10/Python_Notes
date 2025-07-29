@@ -1,0 +1,7 @@
+moby = open('moby_01.txt').read()
+moby = moby.split("\n\n")
+moby = moby[1].lower()
+moby = moby.replace(".","")
+moby = moby.replace(",","")
+moby = moby.split(" ")
+print(moby)

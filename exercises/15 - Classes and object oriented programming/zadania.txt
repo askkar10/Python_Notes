@@ -1,0 +1,51 @@
+1) defining classes -> Jak zdefiniować klasę i stworzyć jej instancję -> pusty przykład
+
+2) jak sprawdzić dokumentacje danej klasy
+
+3) stworzenie pustej klasy -> stworzenie instancji -> do tej instancji przypisanie zmiennej np. radius = 5, wypisanie (2*3.14*radius) -> klasa o nazwie Circle
+
+4) instance variables np. radius, class Circle 
+
+5) to samo co wyżej tylko dodanie metody z 'radius * radius * 3.14 + wypisanie
+
+6) class variables 
+-> dodaj class variables pi 3.14
+-> dodaj zmienną instancji "radius"
+-> metoda -> radius * radius * pi
+
+7) staticmethod decorator
+-> stworzenie klasy circle ze zmienna pi oraz lista all_circles
+-> zmienna instacji radius + dodanie do all_circlej danej stworzonej instancji
+-> metoda area i obliczenie 'pi*radius*radius'
+-> za pomocą static method podsumowanie area ze wszystkich instancji, czyli ile razem maja pola np.3 instancje
+
+8) to samo co wyżej ale classmethod
+
+9) inheritance 
+-> stworzenie klasy shape, ze zmiennymi x, y oraz metoda 'move' przesuwającą te zmienne o wartości
+-> stworzenie klasy Square i dziedziczenie shape z dodaną zmienną instancji 'side'
+-> stworzenie klasy Circle z dodatkową zmienną instancji 'radius'
+
+10) inheritance with class and instance variables
+-> stworzyć klasę p ze zmienną z = hello, metoda sett_p z x = 'class p' i metoda która wypisuje x
+-> klasa C która dziediczy P i to samo tylko bez zmienne z = hello
+-> wypisanie set_p i print_p i sprawdzenie jak to działa
+-> później zmiana tej zmiennej i sprawdzenie
+
+11) recap - basics of classes - python classes all in one
+-> stworzenie klasy shape ze zmiennymi instacji x,y oraz metody, 'move' przesuwających x i y
+-> stworzenie klasy circle i dziedziczenie shape -> zmienna klasy pi oraz all_instances -> dodanie zmiennej instancji radius oraz dodanie wszystkich stworzonych instancji do all_instances
+-> stworzenie metody klas z obliczeniem pola wszystkich instancji
+-> stworzenie statycznej metody z obliczeniem powierzchni 'pi*radius*radius'
+-> stworzenie 2,3 instancji i posprawdzanie
+
+12) stworzenie klasy mine z zmiennym x i prywatna zmienna y oraz stworzenie prywatnej metody
+-> wypisanie prywatnego y
+-> wypisanie prywatnej metody
+
+13) stworzenie klasy temperaturę i utworzenie instancji temp_fahr z wartoscia 0 
+-> stworzenie property metody temp
+(temp_fahr) - 32 * 5/9
+-> ustaweiwnie temp z nową temperaturą
+new_temp * 9/5 + 32
+-wypisanie

@@ -1,0 +1,30 @@
+1) Prosta funkcja, 2 argumenty, mnożenie - wypisanie funkcji + przypisanie jej do zmiennej
+
+2) Funkcja z positional parameter
+
+3) Default values -> funkcja gdzie dodajemy dwie liczby, ale jeden parameter ma default value
+
+4) Passing argument by parameter name w funkcji
+
+5) variable number of arguments (wiele argumentów podanych do funkcji) -> może być funkcja gdzie znajdujemy największą liczbę 
+
+6) variable number of arguments -> stworzenie przez funkcje jakiegoś dictionary
+
+7) mutable objects as argument -> x=5,y=[1,2],z=[4,5], stworzenie funkcje gdzie dodajemy do listy, zmieniamy liste i dodajemy do x jakas wartość, przepuszczenie przez funkcje i sprawdzenie które wartości się zmienia
+
+8) global variable, nonlocal variable
+
+9) Assigning functions to variables -> funkcja zamieniające stopnie celcjusza na kelviny i odwrotnie
+K = °C + 273.15
+°C = K - 273.15
+
+10) to samo ale dictionary
+
+11) lambda expression -> to samo co wyżej
++ np. z dodawaniem
+i w dictionary
+
+12) while w funkcji
+wypisanie czegoś 4 razy i zwrócenie
+
+13) decorating function

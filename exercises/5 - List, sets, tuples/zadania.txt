@@ -1,0 +1,81 @@
+- Tworzenie list i sprawdzanie dlugosci
+Stworz liste zawierajaca kilka liczb. Wypisz jej dlugosc uzywajac funkcji len().
+
+Stworz liste owoce = ['jablko', 'banan', 'gruszka'] i wypisz jej elementy po kolei.
+
+- Kopiowanie listy
+Stworz liste a = [1, 2, 3] i skopiuj ja do zmiennej b. Zmien jeden element w b. Czy a tez sie zmienila?
+
+- Zmiana elementu listy
+Zmien drugi element listy kolory = ['czerwony', 'zielony', 'niebieski'] na zolty.
+
+- Dodawanie elementow do listy
+Dodaj do listy liczby = [1, 2, 3] jej dlugosc jako nowy element na koniec.
+
+Dodaj nowa liste nowe = [100, 200] na poczatek listy liczby.
+
+- Wyciecie z listy
+Z listy a = [1, 2, 3, 4, 5] zostaw tylko pierwszy element uzywajac pustej listy jako indeksatora (slicing).
+
+- Dodawanie elementow funkcja
+Uzyj append() aby dodac element 99 na koniec listy.
+
+Uzyj insert() aby dodac 0 na poczatek listy.
+
+- Usuwanie elementow
+Usun element na pozycji 2 z listy a = [1, 2, 3, 4] za pomoca del.
+
+Usun pierwszy wystepujacy element 3 z listy za pomoca remove().
+
+- Odwrocenie i sortowanie
+Odwroc kolejnosc listy a = [3, 1, 4, 2].
+
+Posortuj ja rosnaco, a nastepnie stworz kopie i posortuj ja malejaco.
+
+- Customowe sortowanie
+Posortuj liste a = ['ala', 'ma', 'kota', 'i', 'psa'] wedlug dlugosci slow.
+
+- Sprawdzanie wartosci w liscie
+Sprawdz, czy 5 znajduje sie na liscie a = [1, 2, 3, 4, 5].
+
+Sprawdz, czy 10 nie znajduje sie na tej liscie.
+
+- Operacje arytmetyczne na listach
+Dodaj dwie listy: [1, 2] + [3, 4].
+
+Pomnoz liste [0, 1] przez 3.
+
+- Min, Max, Sum
+Znajdz minimalna, maksymalna i sume elementow listy [4, 2, 7, 1].
+
+- Operacje na indeksach
+Znajdz indeks wartosci 7 w liscie [5, 7, 9].
+
+Policz, ile razy 1 wystepuje w liscie [1, 2, 1, 3, 1].
+
+- Zagniezdzone listy i kopiowanie
+Stworz liste zagniezdzona a = [[1, 2], [3, 4]] i wypisz element 4.
+
+Skopiuj gleboko liste zagniezdzona i zmodyfikuj wartosc wewnatrz - sprawdz, czy oryginal sie zmienil.
+
+- Tuple
+Stworz tuple t = (1, 2, 3) i wypisz jej dlugosc.
+
+Dodaj dwie tuple (1, 2) i (3, 4) oraz pomnoz (1, 2) razy 2.
+
+Przypisz zmienne z tupli: a, b = (5, 6).
+
+Odpakuj i zapakuj ponownie tuple x = (7, 8, 9).
+
+Zamien tuple (1, 2, 3) na liste, a potem spowrotem na tuple.
+
+- Sety
+Stworz zbior a = {1, 2, 3} i dodaj do niego element 4.
+
+Usun element 2, sprawdz, czy 3 znajduje sie w zbiorze.
+
+Stworz dwa zbiory i znajdz ich czesc wspolna oraz roznice.
+
+Wyswietl unikalne litery ze slowa programowanie uzywajac set().
+
+Stworz zamarzniety set (frozenset) z listy [1, 2, 3] i sprawdz, czy mozna do niego dodac element.

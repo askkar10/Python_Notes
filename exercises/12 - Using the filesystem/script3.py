@@ -1,0 +1,11 @@
+import os
+path = os.path.join('bin','myfolder','here','tekst.txt')
+print(path)
+# a)
+print(os.path.split(path))
+# b)
+print(os.path.basename(path))
+# c)
+print(os.path.dirname(path))
+# d)
+print(os.path.splitext(path))

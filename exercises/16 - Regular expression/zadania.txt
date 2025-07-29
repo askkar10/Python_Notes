@@ -1,0 +1,22 @@
+1) policzenie ile razy w pliku 'textfile' wystepuje 'hello'
+
+2) jak spradzic czy wystepuje 'hello' lub 'Hello' (3) sposoby
+plik 'textfile2'
+
+3) jak zrobić żeby program odczytał '\\ten' w pliku 'textfile3'
+
+4) to samo co wyżej ale z uzyciem raw strings
+
+5) extracting method text from string 
+-> surname, firstname middlename: phonenumber
+-> numer telefonu w stylu (123-)opcjonalnie123-1234
+-> stwórz do tego regexp
+-> wypisz czy udało się znaleźć
+plik 'people'
+
+6)to samo co wyżej tylko z wypisaniem co udało się znaleźć
+czyli imiona nazwisko srodkowe imie w princie wypisane do każdej osoby, czyli wraz z pogrupowaniem regexpa
+
+7) zamień 'if the the problem is textual, use the the re module' tak, żeby było samo 'the' a nie podwójne
+
+8) zamień stringa "1 2 3 4 5" na "1.0 2.0 3.0 4.0 5.0"

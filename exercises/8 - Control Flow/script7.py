@@ -1,0 +1,8 @@
+a = list(range(3,8))
+print(a)
+b = list(range(2,11))
+print(b)
+c = list(range(0,101,5))
+print(c)
+d = list(range(5,0,-1))
+print(d)

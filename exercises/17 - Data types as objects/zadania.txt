@@ -1,0 +1,52 @@
+1) jak sprawdzić jakiego typu jest dany obiekt?
+-> np. 5
+-> ['hello','goodbye']
+-> zapisanie typu do zmiennej i sprawdzanie typu tej zmiennej
+
+2) sprawdzenie razem dwóch typów, czy są sobie równe
+-> 'hello', 'goodbye'
+-> 5 i 'hello'
+
+3) dziedziczenie i metaklasy w python
+-> stworzenie pustych klas A,B B dzidziczy po A i stworzenie instancji
+-> sprawdzenie typu obiektu
+-> sprawdzenie po atrybucie obiektu jego klasy
+-> sprawdzenie nazwy po atrybucie
+-> sprawdzenie klasy bazowej
+
+4) sprawdzenie typu obiektu i dziedziczenia klas
+-> stworzenie 3 klas C,D,E , E dziedziczy po D, stworzenie zmiennej x =12 i instancji klasy
+-> sprawdzenie czy obiekt jest instancją danej klasy
+-> sprawdzenie czy klasa jest podklasa drugie
+
+5) special method attributes
+-> str, init co robią
+-> stworzenie klasy 'color' z trzema zmiennymi red green blue
+-> stworzenie metody dzięki, której będziemy mogli wypisać te kolory w princie danej instancji
+
+6) the __getitem__ special attribue
+-> stworzenie klasy 'LineReader' z zmienn,a która przechowuje nazwe pliku
+-> odczytanie linii plik, jeżeli pusta zamkniecie i error, jeżeli nie zwrócenie linii
+
+7) implementing full list fuctionallity
+-> __setitem__
+-> stworzenie klasy MojSlownik z zmeinną 'dane' tworzącą dictionary
+-> ustawienie wartość klucz wartość
+-> odebranie wartość
+-> stworzenie instancji, wypisanie wartosc
+
+8) stworzenie klasy 'punkt' z x i y
+-> metoda dzięki,, której będziemy mogli dodać punkty z dwóch różnych instancji
+-> wypisz instancje trzecia z dodanymi punktami z pierwszych dwóch
+
+9) subclassing UserList
+-> importowanie 'UserList'
+-> stworzenie klasy 'TypedUserList' i dziedziczenie 'userlist'
+-> stworzenie zmiennych -> example_element, initial_list -> zapamiętanie jaki to był type elementow w liscie
+-> sprawdzenie czy faktycznie stworzono list
+-> weryfikacja wszystkich elementow wstepnych listy
+-> inicjalizacja wewnętrznej listy
+-> metoda która sprawdza czy nowy element ma odpowiedni typ
+-> metoda ustawiająca element i sprawdzając czy ma odpowiedni typ
+-> oddanie tego elementu
+

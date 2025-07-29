@@ -1,0 +1,11 @@
+from pathlib import Path
+path = Path('bin','utils','disktools','tekst.txt')
+print(path)
+# a)
+print(path.parts)
+# b)
+print(path.name)
+# c)
+print(path.parent)
+# d)
+print(path.suffix)

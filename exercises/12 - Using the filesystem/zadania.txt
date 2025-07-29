@@ -1,0 +1,42 @@
+1) absolute pathnames i relative pathnames po jednym przykładzie
+
+2) Sprawdzenie w jakiej ścieżce pracujemy + za pomocą pathlib
+
+3) dodawanie stringów, ta aby powstała ścieżka (path) np. bin, myfolder,here
+a) oddzielenie ostatniego folderu od ścieżki
+b) zwraca nazwe pliku ostatni w path
+c) zwrócenie wszystkiego nad ostatnim pilkiem lub folderem
+d) wypisanie rodzaju pliku
+
+4) Dodanie stringów tak, aby powstałą ścieżka (path) np. bin,utils,disktools -> PATHLIB
+a) zwrócenie path jako tuple
+b) zwrócenie pliku/ostatniego folderu
+c) zwrócenie wszystkie nad plikiem/ ostatnim folderem
+d) zwrócenie rodzaju pliku
+
+5) sprawdzenie na jakim systemie pracujemy
+
+6) Sprawdzenie czy plik istnieje lub folder?
+a) sprawdzenie czy jest to folder?
+b) sprawdzenie czy jest to plik?
+
+7) Uzyskiwanie informacji o pliku z scandir
+
+8) Przejście do danego folderu i wypisanie wszystkich plików
+
+9) Wypisanie wszystkich plików za pomocą inną niż os
+a) z koncowka .txt
+b) te które maja 4 liter lub cyfr
+
+10) Zmiana nazwy pliku
+a) usuniecie plikut .txt
+b) stworzenie jednego katalogu oraz sieci katalogow np.
+c) usuwanie katalogu
+
+11) Zmiana nazwy pliku za pomocą pathlib
+a) wypisanie wszystkich plików w liście
+b) stworzenie katalogu
+c) usuniecie katalogu
+
+12) Przechodzenie przez drzewo katalogów
+C:\Users\askka\Desktop\python_programs

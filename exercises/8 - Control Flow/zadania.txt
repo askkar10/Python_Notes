@@ -1,0 +1,52 @@
+- Instrukcje warunkowe
+Napisz przyklad z uzyciem if-elif-else, ktory sprawdza temperature i wypisuje odpowiedni komunikat.
+
+Jakie slowo kluczowe mozesz uzyc po if, aby blok warunkowy nie robil nic? Przetestuj je w kodzie.
+
+Napisz przyklad z match, ktory sprawdza liczby od 1 do 3 i wypisuje je slowami.
+
+- Petla while
+Napisz petle while, gdzie użytkownik wpisuje jakies imie i jeżeli jest 'q' to przerywa cala petle
+
+Uzyj petli while, aby wypisac liczby od 1 do 10, ale tylko te podzielne przez 2. Wykorzystaj slowo przerywajace aktualna iteracje.
+
+- Petla for
+Dla listy zawierajacej liczby (w tym ujemne), wypisz indeks kazdej liczby ujemnej.
+
+Stworz liste zawierajaca liczby z zakresu od 3 do 7 oraz osobno z zakresu 2 do 10.
+
+Stworz liste od 0 do 100, ale tylko co 5 liczb.
+
+Stworz odwrotna liste liczb od 5 do 1.
+
+- Unpacking, enumerate, zip
+Dla listy tupli zawierajacej pary liczb, wykonaj unpacking i wypisz sume kazdej pary.
+
+Dla listy, wypisz kazdy indeks i odpowiadajaca mu wartosc.
+
+Polacz dwie listy w jedna liste tupli, gdzie kazdy element zawiera pare (element1, element2).
+
+- List/dict comprehension, generator expression
+Stworz liste zawierajaca kwadraty liczb od 1 do 5.
+
+Stworz slownik, gdzie klucze to liczby od 1 do 5, a wartosci to ich kwadraty.
+
+Stworz wyrazenie generatorowe, ktore zwraca liczby podzielne przez 3 z zakresu 0–20.
+
+- Wiele zmiennych i printy
+Przypisz wartosci 5, 10, 10 do zmiennych a, b, c w jednej linii.
+
+Wypisz te zmienne uzywajac print w dwoch liniach.
+
+- Falsy values
+Sprawdz, kiedy wartosci typu int, str, list, dict, set daja wynik False w instrukcji warunkowej.
+
+Podaj specjalna wartosc, ktora daje False dla wszystkich typow.
+
+- Operatory logiczne
+Napisz warunek, ktory przechodzi tylko, gdy dwie zmienne sa rozne od zera.
+
+Napisz warunek, ktory przechodzi, gdy przynajmniej jedna z dwoch zmiennych ma wartosc dodatnia.
+
+Napisz warunek, ktory przechodzi tylko wtedy, gdy zadna ze zmiennych nie jest pusta.
+

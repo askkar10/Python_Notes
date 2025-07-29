@@ -1,0 +1,40 @@
+1) Połączenie się z ftp z:
+-> 'tgftp.nws.noaa.gov'
+-> zmiana directory na 'data' i wypisanie tego directory
+
+2) Połączenie się za pomocą ftp z Chicago O'hare International airport
+-> ten sam plik co w poprzednim zadaniu
+-> 'observations/metar/decoded/KORD.TXT'
+-> zapisanie i otworzenie pliku 
+
+3) connect to server using Transport Layer Security (TLS)
+-> 'tgftp.nws.noaa.gov'
+
+4) fetching files with sftp
+-> po prostu sam przykład
+
+5) retrieving files over http/https -> pobieranie danych z http/https i wyświetlenie
+-> 'http://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/heathrowdata.txt'
+
+6) fetching data via an api 
+api url - > 'https://api.open-meteo.com/v1/forecast?latitude=41.882&longitude=-87.623&current=temperature_2m,wind_speed_10m'
+
+7) json data 
+-> api 'https://api.open-meteo.com/v1/forecast?latitude=41.882&longitude=-87.623&current=temperature_2m,wind_speed_10m'
+-> dwa sposoby wyświetlania danych json
+-> pobranie url
+
+8) pretty printer, json
+-> api 'https://api.open-meteo.com/v1/forecast?latitude=41.882&longitude=-87.623&current=temperature_2m,wind_speed_10m'
+-> wyświetlenie w pretty printer
+
+9) zapisanie danych do pliku json na komputerze - 'weather-01.json'
+
+10) później otwarcie tego pliku
+
+11) xml data z xmltodict
+-> 'https://api.worldbank.org/v2/country/CL/indicator/SP.POP.TOTL?format=xml'
+
+12) scrapping html data
+-> <span class="special">this is special</span>
+<a href="www.wp.pl">LINK</a>

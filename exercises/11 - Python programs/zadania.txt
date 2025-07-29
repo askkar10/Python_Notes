@@ -1,0 +1,9 @@
+1) Stworzenie prostej funkcji i wypisanie jej przez cmd
+
+2) Wypisanie argumentów do listy, które zostały wpisane przy odpaleniu skryptu przy uzyciu cmd + executing code only as maint script
+
+3) Odczytanie pliku oraz zamiana jakiegoś słowa i zapisanie go w innym pliku oraz nadpisanie tego samego
+
+4) argument parser -> dodanie pierwszej zmiennej number1, dodanie drugiej zmiennej number2, wyjaśnienie(explanation), wynik to mnoznie i podac wyjaśnienie oraz sam wynik
+
+5) wypisanie kilku plików tekstowych

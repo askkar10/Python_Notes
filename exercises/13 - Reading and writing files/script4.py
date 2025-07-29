@@ -1,0 +1,6 @@
+f = open('binary','rb')
+d_4 = f.read(4)
+d = f.read()
+f.close()
+print("Pierwsze cztery: {0}".format(d_4))
+print(f"Reszta: {d}")

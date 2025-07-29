@@ -1,0 +1,17 @@
+1) Wywołaj index error np. na liście x = [1,2,3]
+
+2) Wywoływanie errora przez użytkownika np. IndexError, podnoszenie go
+
+3) Przykład z dzieleniem przez 0 try.. except
+
+4) Example exceptions -> funkcja, zwróć float ogolnie - jeżeli string pusty valueerro to 0, a jak cos innego to None
+
+5) stworzenie swojego własnego erroru i wypisanie o nim informacji
+
+6) To samo tylko wypisanie kliku informacji np. dodanie nazwy pliku
+
+7) Exception groups -> multiple exceptions -> TypeError, FileNotFoundError, Value Error
+
+8) debuging
+a) sprawdzenie czy  długość listy jest większa od 5 -> 
+b) czy podana liczba przez użytkownika jest inna niż 0

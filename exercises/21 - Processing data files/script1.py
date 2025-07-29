@@ -1,0 +1,6 @@
+# open('test.txt','wb').write(bytes([65,66,67,255,192,193]))
+x = open('test.txt').read();print(x)
+x = open('test.txt',errors='ignore').read();print(x)
+x = open('test.txt',errors='replace').read();print(x)
+x = open('test.txt',errors='backslashreplace').read();print(x)
+x = open('test.txt',errors='surogateescape').read();print(x)

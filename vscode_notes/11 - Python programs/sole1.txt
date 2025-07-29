@@ -1,0 +1,4 @@
+## sole1.txt: test data for the sole function
+0 0 0
+0 100 0
+##

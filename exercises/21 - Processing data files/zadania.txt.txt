@@ -1,0 +1,43 @@
+1) text encoding: ascii, unicode and others
+-> zapisywanie tekstu w bajtach [65,66,67,225,192,193] jako 'test.txt' -> odczytanie go, odczytanie z zignorowanym errorem, znaków których nie odczytuje to maja być puste, + 2 inne (jeden z backlashem)
+
+2) unstructured list:
+-> otwarcie pliku 'moby_01.txt'
+-> podzielenie go na paragrafy
+-> odczytanie drugiego paragrafu
+
+3) the code for a normalized list of words:
+-> otwarcie pliku 'moby_01.txt'
+-> podzielenie go na paragrafy
+-> wszystkie słowa jako małe litery
+-> zamiana '.',',' na ""
+-> podzielenie słów na listę
+
+4) delimited flat files
+-> podzielenia na rekord tego
+'Illinois|1979/01/01|17.48|994' tak żeby kazde w slowo w liscie było osobno
+
+5) the csv module
+-> otwarcie pliku 'temp_data_pipes_00a.txt'
+za pomocą csv, wypisanie w liście gdzie wszystko jest oddzielone za pomocą "|"
+
+6) readinga csv file as a list of dictionaries
+-> odczytanie plku 'temp_data_01.csv' do dictionary dzięki csv
+
+7) co trzeba zainstalować i jak żeby obsługiwać format excel
+-> odczytanie wartości z pliku 'temp_data_01.xlsx' (excel)
+
+8) sorting -> posortowanie po linii
+ZZZZZZ
+CCCCCC
+QQQQQQ
+AAAAAA
+-> posortowanie po małych znakach, ale bez zmiany na male znaki
+-> posortowanie ignorujące pierwsz 5 liter w tekście bez ingerencji w tekst
+
+9) writing data files - csv -> zapisanie jakichś danych pod temerature_data = [] 
+do pliku 'temp_data_03.csv'
+
+10) writing data files -> zapisanie danych i nagłówków (pól) do pliku csv (Dictionaries)
+
+11) writing excel files -> z pliku 'temp_data_01.csv', zapisz dane do pliku 'temp_data_02.xlsx'

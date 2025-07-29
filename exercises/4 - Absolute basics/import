@@ -1,0 +1,7 @@
+from math import *
+x = 64
+print(sqrt(x))
+print(sin(90))
+
+from cmath import *
+print(sqrt(-1))

@@ -1,0 +1,83 @@
+Tworzenie i manipulacja stringa
+Stwórz string zawierający zdanie i wypisz jego pierwszą, trzecią i ostatnią literę.
+
+Usuń znak nowej linii znajdujący się na końcu stringa.
+
+- Długość, konkatenacja, mnożenie
+Sprawdź, ile znaków zawiera dany string.
+
+Połącz dwa stringi ze sobą w jeden.
+
+Zapisz literę x osiem razy jako jeden string.
+
+- Printy i listy
+Wypisz dwa zdania w osobnych print, ale tak, by były na jednej linii.
+
+Połącz elementy listy zawierającej słowa w jeden string.
+
+Podziel zdanie na listę słów.
+
+- Zaawansowane dzielenie
+Podziel string "mississipi" tak, żeby nie zawierał podciągu "ss".
+
+- Konwersje typów
+Zamień string "3.14" na typ zmiennoprzecinkowy i całkowity.
+
+Zamień string "255" na postać binarną i szesnastkową.
+
+- Czyszczenie tekstu
+Usuń nadmiarowe spacje z lewej, z prawej i z obu stron stringa.
+
+Usuń określone litery lub znaki ze stringa.
+
+Usuń z początku i końca stringa fragmenty takie jak "www." lub ".pl".
+
+- Wyszukiwanie i sprawdzanie
+Znajdź indeks, pod którym znajduje się dane słowo lub litera w stringu.
+
+Sprawdź, ile razy występuje dana litera w tekście.
+
+Sprawdź, czy string zaczyna się od konkretnej litery lub kończy się na określony ciąg.
+
+- Zamiany i translacje
+Zamień wszystkie wystąpienia danej litery w stringu na inny znak.
+
+Zamień wszystkie cyfry w wyrażeniu według schematu (np. 1 → a, 2 → b, itd.).
+
+Usuń z danego tekstu wszystkie znaki specjalne.
+
+- Odwracanie i sprawdzanie typu
+Wypisz dany tekst w odwrotnej kolejności.
+
+Sprawdź, czy string składa się tylko z cyfr lub tylko z liter.
+
+Sprawdź, czy wszystkie litery w stringu są małe lub duże.
+
+- Zmiana wielkości
+Zamień cały tekst na małe litery.
+
+Zamień cały tekst na wielkie litery.
+
+Zamień tylko pierwszą literę tekstu na wielką.
+
+- Konwersja listy na string
+Zamień listę ['a', 'b', 'c'] na string – pokaż dwa różne sposoby.
+
+- Formatowanie stringów
+Wypisz zdanie z użyciem .format(), podstawiając do niego dwie zmienne.
+
+Użyj .format() i nazwanych parametrów (np. z=5).
+
+Dodaj do stringa puste miejsce (padding) przed liczbą lub tekstem.
+
+- f-string
+Wypisz wynik działania dwóch zmiennych używając f-string.
+
+Zaokrągl wynik dzielenia i dodaj odstęp przed liczbą.
+
+- Formatowanie z %
+Wypisz zdanie zawierające wartość z listy za pomocą %.
+
+Zaokrągl wartość zmiennoprzecinkową do 2 miejsc po przecinku i wypisz ją z użyciem %.
+
+- z bajtów na słowa i ze słow na bajty

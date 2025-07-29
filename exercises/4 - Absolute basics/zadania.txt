@@ -1,0 +1,37 @@
+- Komentarze
+Napisz program, ktory oblicza sume dwoch liczb. Uzyj komentarzy, aby wyjasnic kazdy krok dzialania programu.
+
+Wklej ponizszy kod i dodaj komentarze wyjasniajace, co robi kazda linia:
+
+x = 5  
+y = x + 3  
+print(y)
+- Przypisywanie zmiennych
+Przypisz do zmiennej a wartosc 10, a do b wartosc 20. Nastepnie wypisz ich sume.
+
+W jednej linii przypisz wartosci 1, 2, 3 do zmiennych x, y, z. Wypisz te zmienne.
+
+- Optional Type Hints
+Zdefiniuj funkcje add przyjmujaca dwa argumenty typu int i zwracajaca ich sume. Dodaj adnotacje typow.
+
+Napisz funkcje greet, ktora przyjmuje argument name typu str, ale moze tez byc None. Jesli name to None, wypisz "Hello, stranger!".
+
+- Typy liczb: integer, float, complex, boolean
+Zadeklaruj zmienne kazdego z typow: int, float, complex, bool. Wypisz ich wartosci oraz typy (type()).
+
+Napisz program, ktory wykonuje proste dzialania matematyczne na kazdej z tych liczb (np. dodawanie, mnozenie).
+
+- Czesi rzeczywista i urojona w liczbach zespolonych
+Utworz liczbe zespolona z = 4 + 5j. Wypisz jej czesc rzeczywista i urojona.
+
+Napisz funkcje, ktora przyjmuje liczbe zespolona i zwraca sume czesci rzeczywistej i urojonej.
+
+- Importy - zaawansowane dzialania matematyczne
+Zaimportuj modul math i oblicz pierwiastek kwadratowy z 64 oraz sinus kata 90 stopni.
+
+Zaimportuj modul cmath i oblicz pierwiastek z liczby -1. Wypisz wynik.
+
+- Pobieranie wartosci od uzytkownika
+Popros uzytkownika o jego imie i wiek, a nastepnie wypisz komunikat: "Czesc [imie], masz [wiek] lat!"
+
+Popros uzytkownika o dwie liczby i wypisz ich sume.
