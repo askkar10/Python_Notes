@@ -1,0 +1,30 @@
+1) pandas
+-> stworzenie two-dimensional grid
+-> odczytanie tego like a grid
+-> dodanie kolumn -> 'one','two','three' i wypisanie
+-> wypisanie tylko drugiej kolumny
+-> list comprehension drugiej kolumny z grida
+-> looping over data drugiej kolumny
+-> pierwsza i ostania kolumna jako inny data frame
+-> dodanie '2' do każdego item data frame
+-> value counts
+-> saving data to csv file and json
+
+2) data cleaning with a data frame, loading
+-> odczytanie pliku 'mars_data_01.json' oraz 'temp_data_01.csv'
+-> converting 'Missing' value o NaN
+-> zmiana headerów na cyfry
+-> wypisanie z kolumny 17 pierwszej wartości
+-> zmiana kolumny 17 na float z podziałką przez 100 , zamiast tsringa z '%'
+
+3) data aggregation and manipulation
+-> wczytanie dwóch plików, sales_calls.csv, sales_revenue.csv
+-> połączenie ich ze sobą 
+-> Teritority = 3
+-> Amount per call > 500
+-> add that column to date frame, Amount/Calls
+-> suma, średnia, mediana, max, min z Calls
+-> Call_Amount -> mediana Call Mount
+-> grupowanie po miesiącu, calls, Amount, Month
+-> po Territory, Territory, Calls, Amount
+-> matplotlib, bar chart itp
